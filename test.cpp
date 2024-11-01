@@ -10,4 +10,6 @@ int main(){
     else{
         cout<<"Odd number";
     }
+
+    return 0;
 }
